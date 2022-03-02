@@ -1,11 +1,9 @@
-<h2>Hello! I'm </h2>
+<h2>Hello! I'm Guilherme</h2>
 
-<div>
+<div align="center">
     <a href="https://github.com/gcab156">
-    <div align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gcab156&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcab156&layout=compact&langs_count=7&theme=dark"/>
-    </div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gcab156&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcab156&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
