@@ -26,7 +26,7 @@
 
 <div>
     <h3>Experiences?</h3>
-    <p>Nothing at the moment. Waiting for job openings.</p>
+    <p>Nothing at the moment.</p>
 </div>
 
 
