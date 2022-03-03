@@ -80,5 +80,4 @@
 <div>
     <a href="https://paypal.me/gcab156?country.x=PT&locale.x=pt_PT" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"target="_blank"></a>
-    <a href="mailto:gcab2006@dnmx.org" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
