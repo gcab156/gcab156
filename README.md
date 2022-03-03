@@ -22,15 +22,7 @@
 <br>
 
 <h2>Experiences?</h2>
-    <p>Nothing at the moment.</p>
-
-<br>
-
-<div align="center">
-    <a href="https://github.com/gcab156">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gcab156&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcab156&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+    <p>Nothing at the moment. Waiting for job openings.</p>
 
 <br>
 
