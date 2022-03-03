@@ -1,14 +1,38 @@
-<h2>Hello! I'm Guilherme, Welcome to my Profile</h2>
+<h1></h1>
 
-<div>
+<h2>Who am I?</h2>
+    <p>I'm Guilherme, I'm 16 years old and I'm from Portugal. 
+    <p>I make programming a job and a hobby, I know I'm capable of doing projects in several languages, but I don't feel very comfortable with some, among many, JavaScript and PHP. 
+    <p>With programming I hope to get some Freelance work, to invest in the CryptoMarket, first in NFT's and Ethereum.</p>
+    <p>I conclude that I am a person who strives to reach good results and I never give up.</p>
+
+<br>
+
+<h2>Formations?</h2>
+    <p>:heavy_check_mark: CS50 (Free Plan): Excel for Beginners</p>
+    <p>:heavy_check_mark: CS50 (Free Plan): Excel for Everyone: Core Foundations</p>
+    <p>:heavy_check_mark: CS50 (Free Plan): Linux Commands & Shell Scripting</p>
+    <p>:heavy_check_mark: CS50 (Free Plan): Fundamentals of Red Hat Enterprise Linux</p>
+    <p>:heavy_check_mark: CS50 (Free Plan): HTML5 and CSS Fundamentals</p>
+    <p>:heavy_check_mark: CS50 (Free Plan): Introduction to Programming with Python</p>
+    <p>:heavy_check_mark: CS50 (Free Plan): Introduction to Artificial Intelligence with Python</p>
+    <p>:heavy_check_mark: CS50 (Free Plan): Penetration Testing - Discovering Vulnerabilities</p>
+    <p>:heavy_check_mark: CS50 (Free Plan): Cybersecurity for Critical Urban Infrastructure</p>
+
+<br>
+
+<h2>Experiences?</h2>
+    <p>Nothing at the moment.</p>
+
+<br>
+
+<div align="center">
     <a href="https://github.com/gcab156">
-    <div align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gcab156&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcab156&layout=compact&langs_count=7&theme=dark"/>
-    </div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gcab156&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcab156&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-##
+<br>
 
 <h3>Skills</h3>
 <dev>
@@ -22,11 +46,11 @@
     <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     <img align="center" alt="Red Hat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg">
     <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
-    <img align="center" alt="Aftereffects" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
+    <img align="center" alt="After Effects" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
     <img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
 </dev>
 
-##
+<br>
 
 <h3>Social</h3>
 <dev> 
@@ -35,7 +59,7 @@
     <a href="https://open.spotify.com/user/31llp5h5xzcneir27xiu4mtr4gc4?si=g48F2LdWRQilrehV-aG1cw&utm_source=copy-link" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a>
 </dev>
 
-##
+<br>
 
 <h3>Contact</h3>
 <dev>
@@ -43,7 +67,7 @@
     <a href="mailto:gcab2006@dnmx.org" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </dev>
 
-##
+<br>
 
 <h3>Games</h3>
 <dev>
@@ -52,7 +76,26 @@
     
 </dev>
 
-##
+<br>
+
+<h3>Funding</h3>
+<dev>
+    <a href="https://paypal.me/gcab156?country.x=PT&locale.x=pt_PT" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"target="_blank"></a>
+</dev>
+    <a href="mailto:gcab2006@dnmx.org" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</dev>
+
+<br>
+
+<h3>Games</h3>
+<dev>
+    <a href="https://discordapp.com/users/747229165518061648" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    <a href="https://steamcommunity.com/id/gcab156/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+    
+</dev>
+
+<br>
 
 <h3>Funding</h3>
 <dev>
