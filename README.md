@@ -54,6 +54,7 @@
 <div> 
     <a href="https://twitter.com/gcab156" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/gcab156" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://discordapp.com/users/747229165518061648" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     <a href="https://open.spotify.com/user/31llp5h5xzcneir27xiu4mtr4gc4?si=g48F2LdWRQilrehV-aG1cw&utm_source=copy-link" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a>
 </div>
 
@@ -63,15 +64,6 @@
 <div>
     <a href="https://telegram.org/gcab156" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
     <a href="mailto:gcab2006@dnmx.org" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-<br>
-
-<h3>Games</h3>
-<div>
-    <a href="https://discordapp.com/users/747229165518061648" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    <a href="https://steamcommunity.com/id/gcab156/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-    
 </div>
 
 <br>
